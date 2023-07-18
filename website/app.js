@@ -10,7 +10,7 @@ const country = document.getElementById('country');
 const zip = document.getElementById('zip');
 const feelings = document.getElementById('feelings');
 const coming = document.querySelector(".coming");
-const key = "&appid=a0b239d0b2c94240a4405459e9893077&units=imperial";
+const key = "&appid=typeyourapikey&units=imperial";
 const temp = document.getElementById('temp');
 const content = document.getElementById('content');
 const city = document.getElementById('city');
